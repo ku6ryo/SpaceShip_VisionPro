@@ -1,0 +1,8 @@
+Model Information:
+* title:	Starship
+* source:	https://sketchfab.com/3d-models/starship-7836614244b04ff0beb2a00f8a65a5fc
+* author:	MillionthVector (https://sketchfab.com/MillionthVector)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

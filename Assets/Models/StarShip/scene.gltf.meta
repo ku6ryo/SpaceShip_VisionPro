@@ -1,0 +1,67 @@
+fileFormatVersion: 2
+guid: b2dd987c9e98aa848b25d9283377a399
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Front_section_mat
+    second: {fileID: 2100000, guid: 925a98ef2f2f36c419028b6d3eeb3026, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 804e1ce4c496647cfa3f1a1134187c71, type: 3}
+  _removeEmptyRootObjects: 1
+  _scaleFactor: 1
+  _maximumLod: 300
+  _readWriteEnabled: 1
+  _generateColliders: 0
+  _swapUvs: 0
+  _generateLightmapUVs: 0
+  _importNormals: 0
+  _importTangents: 0
+  _importAnimations: 1
+  _addAnimatorComponent: 0
+  _animationLoopTime: 1
+  _animationLoopPose: 0
+  _importMaterials: 1
+  _useSceneNameIdentifier: 1
+  optimizeGameObjects: 0
+  materials:
+  - {fileID: 6052555543583770391, guid: b2dd987c9e98aa848b25d9283377a399, type: 3}
+  - {fileID: -1639604000992205196, guid: b2dd987c9e98aa848b25d9283377a399, type: 3}
+  - {fileID: -151691033523012196, guid: b2dd987c9e98aa848b25d9283377a399, type: 3}
+  - {fileID: 1553734111918650143, guid: b2dd987c9e98aa848b25d9283377a399, type: 3}
+  _extensions: []
+  _textures:
+  - texture: {fileID: 2800000, guid: 3ba3e403fb94eeb43a36ef05c6ec01be, type: 3}
+    shouldBeLinear: 0
+  - texture: {fileID: 2800000, guid: af0462c2a6ac2d940a68b89a69d5734a, type: 3}
+    shouldBeLinear: 1
+  - texture: {fileID: 2800000, guid: 42b9fc2b74ceb3b4ebad3548fc82cd8a, type: 3}
+    shouldBeLinear: 1
+  - texture: {fileID: 2800000, guid: 97bde0b52bfdfd84f81116ce3ce42f41, type: 3}
+    shouldBeLinear: 0
+  - texture: {fileID: 2800000, guid: 1fbe73daa3a825246ada605b3ecf8423, type: 3}
+    shouldBeLinear: 1
+  - texture: {fileID: 2800000, guid: 1f41ef146db7e4b4da4271d86df72033, type: 3}
+    shouldBeLinear: 0
+  - texture: {fileID: 2800000, guid: 000b686a7be69eb47a76ae077edf7086, type: 3}
+    shouldBeLinear: 1
+  - texture: {fileID: 2800000, guid: 247cccad9335b1b419b3fc2884d69400, type: 3}
+    shouldBeLinear: 0
+  - texture: {fileID: 2800000, guid: cd1e9d1eebb89584fb8c01fc5a448c69, type: 3}
+    shouldBeLinear: 1
+  - texture: {fileID: 2800000, guid: f16ec5385518f7a43ad4c972a1e8dff5, type: 3}
+    shouldBeLinear: 0
+  - texture: {fileID: 2800000, guid: cc92fce0854dfbe40aee6e6cc1892063, type: 3}
+    shouldBeLinear: 1
+  - texture: {fileID: 2800000, guid: 8af3196765beb654d98e46bfd4a7db0d, type: 3}
+    shouldBeLinear: 0
+  - texture: {fileID: 2800000, guid: c397b09f43e101042bd90ac50da889e0, type: 3}
+    shouldBeLinear: 1
+  - texture: {fileID: 2800000, guid: 323a92e2377fe624583ba47c83fdbe41, type: 3}
+    shouldBeLinear: 1
+  _mainAssetIdentifier: scenes/Sketchfab_Scene
